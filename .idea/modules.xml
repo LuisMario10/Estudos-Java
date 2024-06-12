@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aulas Orientação a Objetos/Polimorfismo/Aula 1/Aula 1.iml" filepath="$PROJECT_DIR$/Aulas Orientação a Objetos/Polimorfismo/Aula 1/Aula 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas Orientação a Objetos/Polimorfismo/Aula 2/Aula 2.iml" filepath="$PROJECT_DIR$/Aulas Orientação a Objetos/Polimorfismo/Aula 2/Aula 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas Java/Aulas Java.iml" filepath="$PROJECT_DIR$/Aulas Java/Aulas Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas Orientação a Objetos/Aulas Orientação a Objetos.iml" filepath="$PROJECT_DIR$/Aulas Orientação a Objetos/Aulas Orientação a Objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas Java/BootCamp Dio &amp; Santander/BootCamp Dio &amp; Santander.iml" filepath="$PROJECT_DIR$/Aulas Java/BootCamp Dio &amp; Santander/BootCamp Dio &amp; Santander.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas Java/Enums-Java/Enums-Java.iml" filepath="$PROJECT_DIR$/Aulas Java/Enums-Java/Enums-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Estudos-Java.iml" filepath="$PROJECT_DIR$/.idea/Estudos-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/Estudos-java-mysql.iml" filepath="$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/Estudos-java-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas Orientação a Objetos/Herança/Herança.iml" filepath="$PROJECT_DIR$/Aulas Orientação a Objetos/Herança/Herança.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas Orientação a Objetos/InterfacesJava/InterfacesJava.iml" filepath="$PROJECT_DIR$/Aulas Orientação a Objetos/InterfacesJava/InterfacesJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Sistema-de-Cadastro/Sistema-de-Cadastro.iml" filepath="$PROJECT_DIR$/Exercicios/Sistema-de-Cadastro/Sistema-de-Cadastro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/build/build.iml" filepath="$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/build/build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/main/core-api/core-api.iml" filepath="$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/main/core-api/core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/main/core-impl/core-impl.iml" filepath="$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/main/core-impl/core-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/demo/demo.iml" filepath="$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/generated/generated.iml" filepath="$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/generated/generated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/legacy/legacy.iml" filepath="$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/legacy/legacy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/main/protocol-impl/protocol-impl.iml" filepath="$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/main/protocol-impl/protocol-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/test/test.iml" filepath="$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/main/user-api/user-api.iml" filepath="$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/main/user-api/user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/main/user-impl/user-impl.iml" filepath="$PROJECT_DIR$/JDBC MySQL/Estudos-java-mysql/lib/mysql-connector-j-8.4.0/src/main/user-impl/user-impl.iml" />
+    </modules>
+  </component>
+</project>
