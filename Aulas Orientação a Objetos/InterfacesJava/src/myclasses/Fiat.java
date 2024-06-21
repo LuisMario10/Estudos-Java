@@ -40,7 +40,6 @@ public class Fiat extends Car implements Modify, Modify2 {
         System.out.println("Abrindo Teto Solar...");
     }
 
-
     @Override
     public void pintArtInCar(String draw) {
         System.out.println("Pintando no carro um: " + draw);
