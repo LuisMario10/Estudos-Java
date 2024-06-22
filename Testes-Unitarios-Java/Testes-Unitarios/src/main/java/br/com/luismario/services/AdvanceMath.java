@@ -1,4 +1,4 @@
-package br.com.luismario.project;
+package br.com.luismario.services;
 
 public class Project {
     public String name;
